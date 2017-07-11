@@ -11,7 +11,7 @@
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="index.php"><span class="brand1">ESTUDIO</span><span class="brand2">CEREJEIRA</span></a>
+	      <a class="navbar-brand" href="index.php">ESTUDIO<span class="brand1">CEREJEIRA</span></a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
