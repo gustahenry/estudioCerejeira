@@ -28,18 +28,14 @@
 	<div class="row alinha">
 		<div class="col-sm-6">
 			<h2>ENTRE EM CONTATO COM O ESTUDIO</h2>
-			<form action="">
+			<form action="email.php" method="post">
 				<div class="form-group">
 					<label for="nome">NOME COMPLETO</label>
-					<input class="form-control" type="text" id="nome">
-				</div>
-				<div class="form-group">
-					<label for="nome">NOME COMPLETO</label>
-					<input class="form-control" type="text" id="nome">
+					<input class="form-control" type="text" id="nome" name="nome">
 				</div>
 				<div class="form-group">
 					<label for="email">E-MAIL</label>
-					<input class="form-control" type="email" id="email">
+					<input class="form-control" type="email" id="email" name="email">
 				</div>
 				<div class="form-group">
 					<label for="mensagem">MENSAGEM</label>
