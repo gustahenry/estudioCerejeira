@@ -27,6 +27,17 @@
 
 	<div class="row alinha">
 		<div class="col-sm-6">
+			<?php 
+				$email ='';
+				$email = $_GET['email'];
+
+				if($email=='sucesso'){
+					echo '<p class="text-success">Email enviado com sucesso</p>';
+				}
+				if($email=='erro'){
+					echo '<p class="text-danger">Houve um problema ao enviar o email, tente novamente mais tarde</p>';
+				}
+			 ?>
 			<h2>ENTRE EM CONTATO COM O ESTUDIO</h2>
 			<form action="email.php" method="post">
 				<div class="form-group">
