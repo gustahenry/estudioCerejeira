@@ -25,9 +25,9 @@
 	  </div><!-- /.container-fluid -->
 	</nav>
 
-	<div class="row alinha">
-		<div class="col-sm-6">
-			<?php 
+	<div class="row">
+		<div class="col-sm-5">
+			<?php
 				$email ='';
 				$email = $_GET['email'];
 
@@ -50,14 +50,13 @@
 				</div>
 				<div class="form-group">
 					<label for="mensagem">MENSAGEM</label>
-					<textarea class="form-control" name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+					<textarea class="form-control" name="mensagem" id="mensagem" cols="30" rows="5"></textarea>
 				</div>
 				<button class="btn btn-contato btn-lg">CONTATO</button>
 			</form>
 		</div>
-		<div class="col-sm-1"></div>
-		<div class="col-sm-5">
-			<p><a class="btn btn-trabalho btn-lg" href="#" role="button">VEJA NOSSOS TRABALHOS<a></p>
+		<div class="col-sm-7">
+		<!--	<p><a class="btn btn-trabalho btn-lg" href="#" role="button">VEJA NOSSOS TRABALHOS<a></p>-->
 		</div>
 	</div>
 </div>

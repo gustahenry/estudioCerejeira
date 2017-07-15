@@ -10,7 +10,7 @@ body,h1{
   background-size: cover;
 }
 .sobre{
-  background-image: url('../img/img-sobre-1680x1050.png');
+  background-image: url('../img/img-bckg-sobre.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -18,7 +18,7 @@ body,h1{
 }
 .contato{
   color: #000;
-  background-image: url('../img/img-contato.jpg');
+  background-image: url('../img/img-bckg-contato.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -40,8 +40,18 @@ body,h1{
 .navbar-default .navbar-nav>li>a{
 color: #fff;    
 }
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+color: #bf3258;    
+}
 #contato{
   border: 2px solid #fff;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#contato:hover{
+  background-color: #bf3258;
+  border: 2px solid #bf3258;
+  color:#fff;
   margin-top: 6px;
   padding: 8px 15px;
 }
