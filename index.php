@@ -11,13 +11,14 @@
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	      </button>
-	      <a class="navbar-brand" href="index.php">ESTUDIO<span class="brand1">CEREJEIRA</span></a>
+	      <a class="navbar-brand" href="index.php"><img id="logo" src="img/logo-site-branco.png" alt="Estudio Cerejeira"></a>
 	    </div>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav navbar-right">
 	        <li><a href="sobre.php">SOBRE</a></li>
+	        <li><a href="sobre.php">SOLUÇÕES</a></li>
 	        <li><a href="portfolio.php">PORTFÓLIO</a></li>
 	        <li><a id="contato" href="contato.php">CONTATO</a></li>
 	      </ul>
@@ -26,9 +27,9 @@
 	</nav>
 
 	<div class="jumbotron text-center">
-	  <h1>Hello, world!</h1>
-	  <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
-	  <p><a class="btn btn-destaque btn-lg" href="#" role="button">LOREM IPSUM DOLOR</a></p>
+	  <h1>CONTEÚDO RELEVANTE</h1>
+	  <p>Comunicação com o seu DNA</p>
+	  <p><a class="btn btn-destaque btn-lg" href="#" role="button">CONFIRA NOSSOS TRABALHOS</a></p>
 	</div>
 </div>
 

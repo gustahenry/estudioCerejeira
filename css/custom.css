@@ -2,28 +2,15 @@ body,h1{
   font-family: 'Montserrat', sans-serif;
   color: #fff; 
 }
+/*HOME*/
 .home{
- background-image: url('../img/img-home-1680x1050.png');
+ background-image: url('../img/home-5.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-.sobre{
-  background-image: url('../img/img-bckg-sobre.png');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-.contato{
-  color: #000;
-  background-image: url('../img/img-bckg-contato.png');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
+
 .navbar-default{
   background-color: transparent;
   border: none;
@@ -31,17 +18,14 @@ body,h1{
 .navbar-default .navbar-brand{
   color: #fff;
 }
-.brand1{
-  font-weight: bold;
-}
-.brand2{
-  font-weight: bold;
-}
 .navbar-default .navbar-nav>li>a{
-color: #fff;    
+color: #fff;  
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
 color: #bf3258;    
+}
+#logo{
+  width: 15rem;
 }
 #contato{
   border: 2px solid #fff;
@@ -55,13 +39,43 @@ color: #bf3258;
   margin-top: 6px;
   padding: 8px 15px;
 }
-#contato2{
-  background-color: #000;
-  color: #fff;
-  border: 2px solid #000;
+/*SOBRE*/
+.sobre{
+  background-image: url('../img/img-bckg-sobre.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#contato-sobre{
+  border: 2px solid #fff;
   margin-top: 6px;
   padding: 8px 15px;
 }
+#contato-sobre:hover{
+  background-color: #fff;
+  border: 2px solid #fff;
+  color:#bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+
+
+h2{
+  color: #fff;
+}
+
+
+.brand1{
+  font-weight: bold;
+}
+.brand2{
+  font-weight: bold;
+}
+
+
+
+
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
   background-color: transparent;
@@ -79,20 +93,22 @@ color: #bf3258;
 }
 .jumbotron{
   background-color: transparent;
-  margin-top: 22rem;
+  margin-top: 16rem;
 }
+.jumbotron h1{
+  font-size: 50px;
+}
+.jumbotron p{
+  font-size: 28px;
+}
+
 .btn-destaque {
     color: #fff;
     background-color: #bf3258;
     border-color: none;
     border-radius: 0px;   
 }
-.btn-contato {
-    color: #000;
-    background-color: transparent;
-    border: 2px solid #000;   
-    border-radius: 0px;   
-}
+
 .btn-trabalho {
     color: #000;
     background-color: transparent;
@@ -111,19 +127,117 @@ color: #bf3258;
 .ativa{
   font-weight: bold;
 }
+/*SOLUCOES*/
+#contato-solucoes{
+  background-color: #fff;
+  color: #bf3258;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+.videos{
+  height: 29.4rem;
+  margin-top: 7rem;
+  background-image: url('../img/videos.png');
+ background-repeat: no-repeat;
+}
+.videos:hover{
+  height: 29.4rem;
+  margin-top: 7rem;
+  background-image: url('../img/videos.png');
+  background-repeat: no-repeat;
+}
+.midias{
+  width: 100%;
+  height: 29.4rem;
+  margin-top: 7rem;
+  background-image: url('../img/midia.png');
+ background-repeat: no-repeat;
+}
+.consultoria{
+  
+  height: 29.4rem;
+  margin-top: 4rem;
+  background-image: url('../img/consultoria.png');
+ background-repeat: no-repeat;
+}
+.marketing{
+  width: 100%;
+  height: 29.4rem;
+  margin-top: 4rem;
+  background-image: url('../img/marketing.png');
+ background-repeat: no-repeat;
+}
+.titulo-solucoes{
+  font-weight: bold;
+  position: relative;
+  padding: 0px 15px;
+  top: 260px
+}
 /*CONTATO*/
-
-#black{
+.contato{
   color: #000;
+  background-image: url('../img/contato.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.contato h2 {
+  color: #888;
+}
+#contato-contato{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
 }
 .nav-black{
  color: #000;
 }
 .navbar-default .nav-black>li>a{
-  color: #000;
- 
+  color: #9c9c9b;
+ }
+ form{
+  margin-top: 4rem;
+ }
+ .form-control{
+  border-radius: 0px;
 }
-
+.btn-contato {
+    color: #fff;
+    background-color: #bf3258;
+    border: 2px solid #bf3258;   
+    border-radius: 0px; 
+}
+.btn-contato:hover {
+     color: #bf3258;
+    background-color: transparent;
+    border: 2px solid #bf3258;   
+    border-radius: 0px;   
+}
+.midia{
+float: right;
+padding-top: 5px;
+}
+.midia2{
+float: left;
+padding-top: 5px;
+}
+.midia-groups{
+  margin-left: 12px;
+}
+.midia-groups2{
+  margin-right: 12px;
+}
+.informacoes{
+  color: #fff;
+  font-size: 18px;
+  background-color: #bf3258;
+  padding: 10px;
+  margin-top: 1rem;
+}
 
 @media screen and (max-width: 768px){
   #contato{
