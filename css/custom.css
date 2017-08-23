@@ -56,6 +56,10 @@ h1{
     border-radius: 0px;
     margin-top: 1rem;  
 }
+.btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
 /*SOBRE*/
 .sobre{
   background-image: url('../img/img-bckg-sobre.png');
