@@ -29,7 +29,7 @@
 	<div class="row">
 		<div class="col-sm-6"></div>
 		<div class="col-sm-5">
-			<h2>O <span class="brand1">ESTÚDIO CEREJEIRA</span>.</CEREJEIRA></h2>
+			<h2>O <span class="brand1">ESTÚDIO CEREJEIRA</span></CEREJEIRA></h2>
 			<p>O Estúdio se adapta à necessidade do cliente: podemos cuidar de todo o processo - desde a roteirização, produção e até edição final do material. Como também fazer o trabalho de captação de imagens completo. Além disso, fazemos consultoria em conteúdo e marketing.
 </p>
 			<p>Os profissionais parceiros do Estúdio Cerejeira são especialistas no assunto: possuem mais de uma década de experiência com passagens na TV Globo, Record TV, TV Bandeirantes, entre outros.
@@ -38,9 +38,9 @@
 			<p>Formada em Comunicação Social - Jornalismo pela Universidade Anhembi Morumbi, Raquel resolveu unir todos os aprendizados dos mais de 10 anos de profissão na área de Televisão e marketing para criar sua própria produtora de vídeos.</p>
 
 			<div class="midia2">
-					<img class="midia-groups2" src="img/facebook.png" alt="">
-					<img class="midia-groups2" src="img/instagram.png" alt="">
-					<img class="midia-groups2" src="img/vimeo.png" alt="">
+				<a href=""><img class="midia-groups2" src="img/facebook.png" alt=""></a>
+				<a href=""><img class="midia-groups2" src="img/instagram.png" alt=""></a>
+				<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
 				</div>
 		</div>
 		<div class="col-sm-1"></div>

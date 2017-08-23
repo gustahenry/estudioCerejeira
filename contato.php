@@ -40,7 +40,7 @@
 	<div class="row">
 		<div class="col-sm-5">
 			
-			<h2>ENTRE EM CONTATO COM O <span class="brand1">ESTUDIO</span></h2>
+			<h2 id="titulo-contato">ENTRE EM CONTATO COM O <span class="brand1">ESTUDIO</span></h2>
 			<form action="email.php" method="post">
 				<div class="form-group">
 					<input class="form-control" type="text" id="nome" name="nome" placeholder="NOME">
@@ -60,9 +60,9 @@
 				<button class="btn btn-contato btn-lg">CONTATO</button>
 				
 				<div class="midia">
-					<img class="midia-groups" src="img/facebook.png" alt="">
-					<img class="midia-groups" src="img/instagram.png" alt="">
-					<img class="midia-groups" src="img/vimeo.png" alt="">
+					<a href=""><img class="midia-groups2" src="img/facebook.png" alt=""></a>
+					<a href=""><img class="midia-groups2" src="img/instagram.png" alt=""></a>
+					<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
 				</div>
 			</form>
 			

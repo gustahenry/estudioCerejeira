@@ -1,5 +1,5 @@
 <?php  require_once('header.php') ?>
-<body class="solucoes">
+<body class="portfolio">
 <div class="container">
 	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
@@ -25,27 +25,27 @@
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
 	</nav>
- 
-		<div class="row">
-		<div class="col-sm-1"></div>
-		<div class="col-sm-5">
-			<div id="acao" class="videos">
-				<h3 id="producao" class="titulo-solucoes">PRODUÇÃO COMPLETA DE VÍDEOS</h3>
-			</div>
-			<div class="consultoria">
-				<h3 class="titulo-solucoes">CONSULTORIA EM CONTEÚDO</h3>
-			</div>
-		</div>
-		<div class="col-sm-5">
-			<div class="midias">
-				<h3 class="titulo-solucoes">MÍDIA TRANNING</h3>
-			</div>
-			<div class="marketing">
-				<h3 class="titulo-solucoes">MARKETING</h3>
-			</div>
-		</div>
-		<div class="col-sm-1"></div>
 
+		<h2 class="text-center">PORTFÓLIO</h2>
+
+		<div class="row">
+		<div class="col-sm-6">
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/wd_zJIYFiOY" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/f28XZ_ixtvk" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+		<div class="col-sm-6">
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/AkL7bFad_QM" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/9w-K3fMFrg0" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+		
 	</div>
 	
 	

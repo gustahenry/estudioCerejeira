@@ -8,7 +8,7 @@
     <title>ESTUDIO CEREJEIRA</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="css/bootstrap.min.css?version=7" rel="stylesheet">
-    <link rel="stylesheet" href="css/custom.css?version=12">
+    <link rel="stylesheet" href="css/custom.css?version=15">
   </head>
   
     

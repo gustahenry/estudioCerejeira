@@ -22,10 +22,20 @@ body,h1{
 color: #fff;  
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
-color: #bf3258;    
+color: #fff;
+font-weight: bold;    
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
 }
 #logo{
   width: 15rem;
+}
+h1{
+  font-weight: bold;
+}
+#texto1{
+  font-weight: 400;
 }
 #contato{
   border: 2px solid #fff;
@@ -38,6 +48,13 @@ color: #bf3258;
   color:#fff;
   margin-top: 6px;
   padding: 8px 15px;
+}
+.btn-destaque {
+    color: #fff;
+    background-color: #bf3258;
+    border-color: none;
+    border-radius: 0px;
+    margin-top: 1rem;  
 }
 /*SOBRE*/
 .sobre{
@@ -102,12 +119,7 @@ h2{
   font-size: 28px;
 }
 
-.btn-destaque {
-    color: #fff;
-    background-color: #bf3258;
-    border-color: none;
-    border-radius: 0px;   
-}
+
 
 .btn-trabalho {
     color: #000;
@@ -134,6 +146,13 @@ h2{
   border: 2px solid #bf3258;
   margin-top: 6px;
   padding: 8px 15px;
+}
+.solucoes .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.solucoes .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
 }
 .videos{
   height: 29.4rem;
@@ -174,6 +193,23 @@ h2{
   padding: 0px 15px;
   top: 260px
 }
+/*PORTFOLIO*/
+.portfolio .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.portfolio .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+
+.portfolio h2{
+  color: #888;
+  margin-top: 6rem;
+}
+.alinha-videos{
+  margin-top: 3rem;
+}
+
 /*CONTATO*/
 .contato{
   color: #000;
@@ -183,7 +219,17 @@ h2{
   background-attachment: fixed;
   background-size: cover;
 }
-.contato h2 {
+.contato .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.contato .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+.contato .row{
+  margin-top: 5rem;
+}
+#titulo-contato{
   color: #888;
 }
 #contato-contato{
@@ -224,6 +270,7 @@ padding-top: 5px;
 .midia2{
 float: left;
 padding-top: 5px;
+margin-bottom: 2rem;
 }
 .midia-groups{
   margin-left: 12px;
@@ -243,4 +290,13 @@ padding-top: 5px;
   #contato{
   border: none;
   padding: 8px 15px;
+}
+
+@media screen and (max-width: 768px){
+  .titulo-solucoes{
+  font-weight: bold;
+  position: relative;
+  padding: 0px 15px;
+  top: 240px
+}
 }
