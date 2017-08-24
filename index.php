@@ -18,7 +18,7 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav navbar-right">
 	        <li><a href="sobre.php">SOBRE</a></li>
-	        <li><a href="sobre.php">SOLUÇÕES</a></li>
+	        <li><a href="solucoes.php">SOLUÇÕES</a></li>
 	        <li><a href="portfolio.php">PORTFÓLIO</a></li>
 	        <li><a id="contato" href="contato.php">CONTATO</a></li>
 	      </ul>
