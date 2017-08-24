@@ -19,7 +19,8 @@ body,h1{
   color: #fff;
 }
 .navbar-default .navbar-nav>li>a{
-color: #fff;  
+color: #fff; 
+font-weight: 100;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
 color: #fff;
@@ -59,6 +60,7 @@ h1{
 .btn:hover {
     color: #fff;
     text-decoration: none;
+    font-weight: bold;
 }
 /*SOBRE*/
 .sobre{
@@ -89,14 +91,6 @@ h2{
 
 .brand1{
   font-weight: bold;
-}
-.brand2{
-  font-weight: bold;
-}
-
-
-
-
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
   background-color: transparent;
@@ -211,9 +205,25 @@ h2{
   margin-top: 6rem;
 }
 .alinha-videos{
+  margin-top: 1rem;
+}
+.portfolio-decoration{
+  color: #888;
+  font-size: 2.5rem;
+  margin-bottom: 0px;
   margin-top: 3rem;
 }
-
+.portfolio-decoration2{
+  color: #bf3258;
+  font-size: 2.5rem;
+  margin-bottom: 0px;
+}
+.portfolio-decoration3{
+  color: #888;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0px;
+}
 /*CONTATO*/
 .contato{
   color: #000;
@@ -248,6 +258,10 @@ h2{
 }
 .navbar-default .nav-black>li>a{
   color: #9c9c9b;
+ }
+ .navbar-default .nav-black>li>a:hover{
+  color: #bf3258;
+  font-weight: bold;
  }
  form{
   margin-top: 4rem;

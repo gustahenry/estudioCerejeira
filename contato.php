@@ -40,7 +40,7 @@
 	<div class="row">
 		<div class="col-sm-5">
 			
-			<h2 id="titulo-contato">ENTRE EM CONTATO COM O <span class="brand1">ESTUDIO</span></h2>
+			<h2 id="titulo-contato">ENTRE EM CONTATO COM O <span class="brand1">ESTÚDIO</span></h2>
 			<form action="email.php" method="post">
 				<div class="form-group">
 					<input class="form-control" type="text" id="nome" name="nome" placeholder="NOME">

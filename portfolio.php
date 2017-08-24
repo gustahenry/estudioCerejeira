@@ -29,21 +29,69 @@
 		<h2 class="text-center">PORTFÓLIO</h2>
 
 		<div class="row">
+
 		<div class="col-sm-6">
+			<h3 class="portfolio-decoration">Melhores momentos</h3>
+			<p class="portfolio-decoration2">Fispal Tecnologia 2017</p>
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/wd_zJIYFiOY" frameborder="0" allowfullscreen></iframe>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/wd_zJIYFiOY" frameborder="0" allowfullscreen></iframe>	
 			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+
+			<h3 class="portfolio-decoration">SEW Eurodrive e SKA</h3>
+			<p class="portfolio-decoration2">apresentam suas novidades na FIEE 2017</p>
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/f28XZ_ixtvk" frameborder="0" allowfullscreen></iframe>
 			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
 		</div>
+
 		<div class="col-sm-6">
+			<h3 class="portfolio-decoration">NEI.com.br na FEIMAFE 2017</h3>
+			<p class="portfolio-decoration2">Conteúdo exclusivo</p>
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/AkL7bFad_QM" frameborder="0" allowfullscreen></iframe>
 			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+
+			<h3 class="portfolio-decoration">Saving de Energia</h3>
+			<p class="portfolio-decoration2">e Indústria 4.0 na prática</p>	
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/9w-K3fMFrg0" frameborder="0" allowfullscreen></iframe>
 			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+		</div>
+
+		<div class="col-sm-6">
+			<h3 class="portfolio-decoration">Confira as novidades da ESAB e da TRUMPF</h3>
+			<p class="portfolio-decoration2">para o mercado brasileiro</p>
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/BMjGJ089QkI" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+
+			<h3 class="portfolio-decoration">Novo conceito em corte e perfurção</h3>
+			<p class="portfolio-decoration2">e Indústria 4.0 na prática</p>	
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/sGxmQWiLCbk" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+		</div>
+
+		<div class="col-sm-6">
+			<h3 class="portfolio-decoration">ROMI e Schunk apresentam</h3>
+			<p class="portfolio-decoration2">tecnologias inovadoras</p>
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/L0fgs_cNoGQ" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
+
+			<h3 class="portfolio-decoration">NEI.com.br</h3>
+			<p class="portfolio-decoration2">na Expomafe 2017</p>	
+			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/8-6_rH9xOFI" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
 		</div>
 		
 	</div>

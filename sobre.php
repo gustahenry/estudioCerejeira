@@ -38,7 +38,7 @@
 			<p>Formada em Comunicação Social - Jornalismo pela Universidade Anhembi Morumbi, Raquel resolveu unir todos os aprendizados dos mais de 10 anos de profissão na área de Televisão e marketing para criar sua própria produtora de vídeos.</p>
 
 			<div class="midia2">
-				<a href=""><img class="midia-groups2" src="img/facebook.png" alt=""></a>
+				<a href="https://www.facebook.com/estudiocerejeira"><img class="midia-groups2" src="img/facebook.png" alt=""></a>
 				<a href=""><img class="midia-groups2" src="img/instagram.png" alt=""></a>
 				<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
 				</div>
