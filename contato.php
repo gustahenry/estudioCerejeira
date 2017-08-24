@@ -60,7 +60,7 @@
 				<button class="btn btn-contato btn-lg">CONTATO</button>
 				
 				<div class="midia">
-					<a href=""><img class="midia-groups2" src="img/facebook.png" alt=""></a>
+					<a href="https://www.facebook.com/estudiocerejeira"><img class="midia-groups2" src="img/facebook.png" alt=""></a>
 					<a href=""><img class="midia-groups2" src="img/instagram.png" alt=""></a>
 					<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
 				</div>
