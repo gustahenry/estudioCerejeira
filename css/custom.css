@@ -36,7 +36,7 @@ h1{
   font-weight: bold;
 }
 #texto1{
-  font-weight: 400;
+  font-weight: 100;
 }
 #contato{
   border: 2px solid #fff;
@@ -145,6 +145,13 @@ h2{
   margin-top: 6px;
   padding: 8px 15px;
 }
+#contato-solucoes:hover{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
 .solucoes .navbar-default .navbar-toggle {
     border: 2px solid #888;
     border-radius: 0px;
@@ -199,7 +206,20 @@ h2{
 .portfolio .navbar-default .navbar-toggle .icon-bar {
     background-color: #888;
 }
-
+#portfolio-solucoes{
+  background-color: #fff;
+  color: #bf3258;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#portfolio-solucoes:hover{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
 .portfolio h2{
   color: #888;
   margin-top: 6rem;

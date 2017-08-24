@@ -20,7 +20,7 @@
 	        <li><a href="sobre.php">SOBRE</a></li>
 	        <li><a href="solucoes.php">SOLUÇÕES</a></li>
 	        <li><a href="portfolio.php">PORTFÓLIO</a></li>
-	        <li><a id="contato-solucoes" href="contato.php">CONTATO</a></li>
+	        <li><a id="portfolio-solucoes" href="contato.php">CONTATO</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
@@ -38,8 +38,8 @@
 			</div>
 			<p class="portfolio-decoration3">Projeto de produção, captação, reportagem, edição e sonorização de vídeo.</p>
 
-			<h3 class="portfolio-decoration">SEW Eurodrive e SKA</h3>
-			<p class="portfolio-decoration2">apresentam suas novidades na FIEE 2017</p>
+			<h3 class="portfolio-decoration">NEI.com.br na FEIMAFE 2017</h3>
+			<p class="portfolio-decoration2">Conteúdo exclusivo</p>
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/f28XZ_ixtvk" frameborder="0" allowfullscreen></iframe>
 			</div>
@@ -47,8 +47,8 @@
 		</div>
 
 		<div class="col-sm-6">
-			<h3 class="portfolio-decoration">NEI.com.br na FEIMAFE 2017</h3>
-			<p class="portfolio-decoration2">Conteúdo exclusivo</p>
+			<h3 class="portfolio-decoration">SEW Eurodrive e SKA</h3>
+			<p class="portfolio-decoration2">apresentam suas novidades na FIEE 2017</p>
 			<div class="embed-responsive embed-responsive-16by9 alinha-videos">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/AkL7bFad_QM" frameborder="0" allowfullscreen></iframe>
 			</div>

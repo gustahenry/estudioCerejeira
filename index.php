@@ -28,6 +28,7 @@
 
 	<div class="jumbotron text-center">
 	  <h1>CONTEÚDO RELEVANTE</h1>
+	  <p id="texto1">Produção de vídeos e consultoria em conteúdo</p>
 	  <p id="texto1">Comunicação com o seu DNA</p>
 	  <p><a class="btn btn-destaque btn-lg" href="portfolio.php" role="button">CONFIRA NOSSOS TRABALHOS</a></p>
 	</div>
