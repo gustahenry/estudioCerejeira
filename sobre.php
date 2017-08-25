@@ -39,8 +39,8 @@
 
 			<div class="midia2">
 				<a href="https://www.facebook.com/estudiocerejeira" target="_blank" ><img class="midia-groups2" src="img/facebook.png" alt=""></a>
-				<a href=""><img class="midia-groups2" src="img/instagram.png" alt=""></a>
-				<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
+					<a href="https://www.instagram.com/estudiocerejeira" target="_blank"><img class="midia-groups2" src="img/instagram.png" alt=""></a>
+					<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
 				</div>
 		</div>
 		<div class="col-sm-1"></div>

@@ -31,6 +31,13 @@
 	  <p id="texto1">Produção de vídeos e consultoria em conteúdo</p>
 	  <p id="texto1">Comunicação com o seu DNA</p>
 	  <p><a class="btn btn-destaque btn-lg" href="portfolio.php" role="button">CONFIRA NOSSOS TRABALHOS</a></p>
+		<div>
+					<a href="https://www.facebook.com/estudiocerejeira" target="_blank" ><img class="midia-groups2" src="img/facebook.png" alt=""></a>
+					<a href="https://www.instagram.com/estudiocerejeira" target="_blank"><img class="midia-groups2" src="img/instagram.png" alt=""></a>
+					<a href=""><img class="midia-groups2" src="img/vimeo.png" alt=""></a>
+				</div>	<div class="midia">
+		
+
 	</div>
 </div>
 

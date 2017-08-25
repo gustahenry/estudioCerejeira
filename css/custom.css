@@ -108,7 +108,7 @@ h2{
 }
 .jumbotron{
   background-color: transparent;
-  margin-top: 16rem;
+  margin-top: 14rem;
 }
 .jumbotron h1{
   font-size: 50px;
@@ -196,7 +196,7 @@ h2{
   font-weight: bold;
   position: relative;
   padding: 0px 15px;
-  top: 260px
+  top: 25rem;
 }
 /*PORTFOLIO*/
 .portfolio .navbar-default .navbar-toggle {
@@ -333,12 +333,28 @@ margin-bottom: 2rem;
   border: none;
   padding: 8px 15px;
 }
-
+}
 @media screen and (max-width: 768px){
   .titulo-solucoes{
   font-weight: bold;
   position: relative;
   padding: 0px 15px;
-  top: 240px
+  top: 23rem;
+}
+}
+@media screen and (max-width: 1024px){
+  .titulo-solucoes{
+  font-weight: bold;
+  position: relative;
+  padding: 0px 15px;
+  top: 21rem;
+}
+}
+@media screen and (max-width: 1600px){
+  .titulo-solucoes{
+  font-weight: bold;
+  position: relative;
+  padding: 0px 15px;
+  top: 22rem;
 }
 }
