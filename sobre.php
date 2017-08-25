@@ -35,7 +35,7 @@
 			<p>Os profissionais parceiros do Estúdio Cerejeira são especialistas no assunto: possuem mais de uma década de experiência com passagens na TV Globo, Record TV, TV Bandeirantes, entre outros.
 </p>		
 			<h2><span class="brand1">RAQUEL MORAES</span> É CRIADORA E DIRETORA DE CONTEÚDO DA ESTÚDIO CEREJEIRA.</h2>
-			<p>Formada em Comunicação Social - Jornalismo pela Universidade Anhembi Morumbi, Raquel resolveu unir todos os aprendizados dos mais de 10 anos de profissão na área de Televisão e marketing para criar sua própria produtora de vídeos.</p>
+			<p>Formada em Comunicação Social - Jornalismo pela Universidade Anhembi Morumbi, Raquel resolveu unir todos os aprendizados dos mais de 10 anos de profissão na área de reportagem e produção para televisão, conteúdo para sites e revistas, comunicação interna, assessoria de imprensa e marketing - com passagem em grandes empresas como Record TV, Vevo, Daslu, Editora Símbolo e Infracommerce - para criar sua própria produtora de vídeos.</p>
 
 			<div class="midia2">
 				<a href="https://www.facebook.com/estudiocerejeira" target="_blank" ><img class="midia-groups2" src="img/facebook.png" alt=""></a>
