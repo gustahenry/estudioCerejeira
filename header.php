@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="css/bootstrap.min.css?version=7" rel="stylesheet">
     <link rel="stylesheet" href="css/custom.css?version=19">
+    <link rel="icon" href="img/favicon.ico" />
   </head>
   
     
