@@ -69,7 +69,7 @@
 			<div class="informacoes">
 				<span class="brand1">FALE COM A GENTE</span><br />
 				+55 11 95461-7360<br />
-				@estudiocerejeira.com.br
+				raquel@estudiocerejeira.com.br
 			</div>
 			
 		</div>
