@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta property="og:title" content="Estudio Cerejeira" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="activity" />
     <meta property="og:url" content="http://estudiocerejeira.com.br/" />
     <meta property="og:image" content="http://estudiocerejeira.com.br/img/logo-site.png" />
     <title>ESTUDIO CEREJEIRA</title>
