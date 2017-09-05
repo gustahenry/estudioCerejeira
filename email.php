@@ -3,6 +3,7 @@ require_once('PHPMailer/PHPMailerAutoload.php');
 
 $nome = $_POST['nome'];
 $email = $_POST['email'];
+$assunto = $_POST['assunto'];
 $mensagem = $_POST['mensagem'];
 
 $mail = new PHPMailer();
@@ -16,7 +17,7 @@ $mail->Password = "010203";
 
 $mail->setFrom("raquel@estudiocerejeira.com.br","Contato");
 $mail->addAddress("raquel@estudiocerejeira.com.br");
-$mail->Subject = "Contato Estudio Cerejeira";
+$mail->Subject = $assunto;
 $mail->msgHTML("<html>de: {$nome}<br/>email: {$email}<br/>mensagem: {$mensagem}</html>");
 $mail->AltBody= "de: {$nome}\nemail: {$email}\nmensagem: {$mensagem}";
 
