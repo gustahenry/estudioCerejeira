@@ -11,8 +11,8 @@ $mail->Host = 'mx1.hostinger.com.br';
 $mail->Port = 2525;
 $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
-$mail->Username = "contato@estudiocerejeira.com.br";
-$mail->Password = "jornalista30";
+$mail->Username = "raquel@estudiocerejeira.com.br";
+$mail->Password = "010203";
 
 $mail->setFrom("contato@estudiocerejeira.com.br","Contato");
 $mail->addAddress("contato@estudiocerejeira.com.br");
