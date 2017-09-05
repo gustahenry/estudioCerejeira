@@ -15,7 +15,7 @@ $mail->SMTPAuth = true;
 $mail->Username = "raquel@estudiocerejeira.com.br";
 $mail->Password = "010203";
 
-$mail->setFrom("raquel@estudiocerejeira.com.br","Contato");
+$mail->setFrom("raquel@estudiocerejeira.com.br","{$nome}");
 $mail->addAddress("raquel@estudiocerejeira.com.br");
 $mail->Subject = $assunto;
 $mail->msgHTML("<html>de: {$nome}<br/>email: {$email}<br/>mensagem: {$mensagem}</html>");
