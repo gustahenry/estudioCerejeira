@@ -51,7 +51,7 @@
 				</div>
 				<div class="form-group">
 					
-					<input class="form-control" type="text" id="assunto" name="email" placeholder="ASSUNTO">
+					<input class="form-control" type="text" id="assunto" name="assunto" placeholder="ASSUNTO">
 				</div>
 				<div class="form-group">
 					
