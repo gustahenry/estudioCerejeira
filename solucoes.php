@@ -38,13 +38,14 @@
 		</div>
 		<div class="col-sm-5">
 			<div class="midias">
-				<h3 class="titulo-solucoes">MÍDIA TRANNING</h3>
+				<h3 class="titulo-solucoes">MEDIA TRANNING</h3>
 			</div>
 			<div class="marketing">
 				<h3 class="titulo-solucoes">MARKETING</h3>
 			</div>
 		</div>
 		<div class="col-sm-1"></div>
+		
 
 	</div>
 	
