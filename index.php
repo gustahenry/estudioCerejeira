@@ -1,4 +1,13 @@
 <?php  require_once('header.php') ?>
+<style>
+	.home{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518211417/home-otm_pfzyek.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+</style>
 <body class="home">
 <div class="container">
 	<nav class="navbar navbar-default">

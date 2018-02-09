@@ -3,13 +3,7 @@ body,h1{
   color: #fff; 
 }
 /*HOME*/
-.home{
- background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518211417/home-otm_pfzyek.jpg');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
+
 
 .navbar-default{
   background-color: transparent;
