@@ -1,4 +1,26 @@
 <?php  require_once('header.php') ?>
+<style>
+	/*SOBRE*/
+.sobre{
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284066/sobre-otm_tyi6eu.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#contato-sobre{
+  border: 2px solid #fff;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#contato-sobre:hover{
+  background-color: #fff;
+  border: 2px solid #fff;
+  color:#bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+</style>
 <body class="sobre">
 <div class="container">
 	<nav class="navbar navbar-default">

@@ -11,8 +11,8 @@
     <meta property="og:image" content="http://estudiocerejeira.com.br/img/logo-site.png" />
     <title>ESTUDIO CEREJEIRA</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link href="css/bootstrap.min.css?version=7" rel="stylesheet">
-    <link rel="stylesheet" href="css/custom.css?version=19">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom.css?version=21">
     <link rel="icon" href="img/favicon.ico" />
   </head>
   

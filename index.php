@@ -1,5 +1,6 @@
 <?php  require_once('header.php') ?>
 <style>
+	/*HOME*/
 	.home{
 	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518211417/home-otm_pfzyek.jpg');
 	  background-position: center center;
@@ -7,6 +8,38 @@
 	  background-attachment: fixed;
 	  background-size: cover;
 	}
+	
+h1{
+  font-weight: bold;
+}
+#texto1{
+  font-weight: 100;
+}
+#contato{
+  border: 2px solid #fff;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#contato:hover{
+  background-color: #bf3258;
+  border: 2px solid #bf3258;
+  color:#fff;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+.btn-destaque {
+    color: #fff;
+    background-color: #bf3258;
+    border-color: none;
+    border-radius: 0px;
+    margin-top: 1rem;  
+}
+.btn:hover {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 </style>
 <body class="home">
 <div class="container">

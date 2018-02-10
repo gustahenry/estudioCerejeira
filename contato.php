@@ -1,4 +1,85 @@
 <?php  require_once('header.php');?>
+<style>
+	/*CONTATO*/
+.contato{
+  color: #000;
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284028/contato-otm_vroobr.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.contato .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.contato .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+.contato .row{
+  margin-top: 5rem;
+}
+#titulo-contato{
+  color: #888;
+}
+#contato-contato{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+.nav-black{
+ color: #000;
+}
+.navbar-default .nav-black>li>a{
+  color: #9c9c9b;
+ }
+ .navbar-default .nav-black>li>a:hover{
+  color: #bf3258;
+  font-weight: bold;
+ }
+ form{
+  margin-top: 4rem;
+ }
+ .form-control{
+  border-radius: 0px;
+}
+.btn-contato {
+    color: #fff;
+    background-color: #bf3258;
+    border: 2px solid #bf3258;   
+    border-radius: 0px; 
+}
+.btn-contato:hover {
+     color: #bf3258;
+    background-color: transparent;
+    border: 2px solid #bf3258;   
+    border-radius: 0px;   
+}
+.midia{
+float: right;
+padding-top: 5px;
+}
+.midia2{
+float: left;
+padding-top: 5px;
+margin-bottom: 2rem;
+}
+.midia-groups{
+  margin-left: 12px;
+}
+.midia-groups2{
+  margin-right: 12px;
+}
+.informacoes{
+  color: #fff;
+  font-size: 18px;
+  background-color: #bf3258;
+  padding: 10px;
+  margin-top: 1rem;
+}
+</style>
 <body class="contato">
 <div class="container">
 	<nav class="navbar navbar-default">

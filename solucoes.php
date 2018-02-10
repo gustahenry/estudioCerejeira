@@ -1,4 +1,61 @@
 <?php  require_once('header.php') ?>
+<style>
+	/*SOLUCOES*/
+#contato-solucoes{
+  background-color: #fff;
+  color: #bf3258;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#contato-solucoes:hover{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+.solucoes .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.solucoes .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+.videos{
+  height: 29.4rem;
+  margin-top: 7rem;
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284066/videos-otm_sd6x4j.jpg');
+ background-repeat: no-repeat;
+}
+.midias{
+  width: 100%;
+  height: 29.4rem;
+  margin-top: 7rem;
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284041/midia-otm_iiavvm.jpg');
+ background-repeat: no-repeat;
+}
+.consultoria{
+  
+  height: 29.4rem;
+  margin-top: 4rem;
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284028/consultoria-otm_x7dijl.jpg');
+ background-repeat: no-repeat;
+}
+.marketing{
+  width: 100%;
+  height: 29.4rem;
+  margin-top: 4rem;
+  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284041/marketing-otm_hxayij.jpg');
+ background-repeat: no-repeat;
+}
+.titulo-solucoes{
+  font-weight: bold;
+  position: relative;
+  padding: 0px 15px;
+  top: 25rem;
+}
+</style>
 <body class="solucoes">
 <div class="container">
 	<nav class="navbar navbar-default">
@@ -29,7 +86,7 @@
 		<div class="row">
 		<div class="col-sm-1"></div>
 		<div class="col-sm-5">
-			<div id="acao" class="videos">
+			<div id="" class="videos">
 				<h3 id="producao" class="titulo-solucoes">PRODUÇÃO COMPLETA DE VÍDEOS</h3>
 			</div>
 			<div class="consultoria">

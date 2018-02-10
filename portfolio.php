@@ -1,4 +1,61 @@
 <?php  require_once('header.php') ?>
+<style>
+	/*PORTFOLIO*/
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a {
+    color: #9c9c9b;
+    
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #bf3258;
+    font-weight: bold;
+}
+
+.portfolio .navbar-default .navbar-toggle {
+    border: 2px solid #888;
+    border-radius: 0px;
+}
+.portfolio .navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#portfolio-solucoes{
+  background-color: #fff;
+  color: #bf3258;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+#portfolio-solucoes:hover{
+  background-color: #bf3258;
+  color: #fff;
+  border: 2px solid #bf3258;
+  margin-top: 6px;
+  padding: 8px 15px;
+}
+.portfolio h2{
+  color: #888;
+  margin-top: 6rem;
+}
+.alinha-videos{
+  margin-top: 1rem;
+}
+.portfolio-decoration{
+  color: #888;
+  font-size: 2.5rem;
+  margin-bottom: 0px;
+  margin-top: 3rem;
+}
+.portfolio-decoration2{
+  color: #bf3258;
+  font-size: 2.5rem;
+  margin-bottom: 0px;
+}
+.portfolio-decoration3{
+  color: #888;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0px;
+}
+</style>
 <body class="portfolio">
 <div class="container">
 	<nav class="navbar navbar-default">
