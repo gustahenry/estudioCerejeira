@@ -1,6 +1,14 @@
 <?php  require_once('header.php') ?>
 <style>
 	/*SOLUCOES*/
+	.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a {
+    color: #9c9c9b;
+    
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #bf3258;
+    font-weight: bold;
+}
 #contato-solucoes{
   background-color: #fff;
   color: #bf3258;
