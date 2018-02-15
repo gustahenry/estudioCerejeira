@@ -61,7 +61,7 @@
   font-weight: bold;
   position: relative;
   padding: 0px 15px;
-  top: 25rem;
+  top: 21rem;
 }
 </style>
 <body class="solucoes">
