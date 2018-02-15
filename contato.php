@@ -1,13 +1,41 @@
 <?php  require_once('header.php');?>
 <style>
 	/*CONTATO*/
-.contato{
-  color: #000;
-  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284028/contato-otm_vroobr.jpg');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+@media screen and (max-width: 1600px){
+  .contato{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717347/contato-1200x720_xwmvmf.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 768px){
+  .contato{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717682/contato-768x1024_cxptsr.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 480px){
+  .contato{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718113/contato-480x800_l7mcwx.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 320px){
+  .contato{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718209/contato-320x480_ip8xzr.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
 }
 .contato .navbar-default .navbar-toggle {
     border: 2px solid #888;

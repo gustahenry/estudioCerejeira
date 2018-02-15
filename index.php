@@ -1,13 +1,43 @@
 <?php  require_once('header.php') ?>
 <style>
 	/*HOME*/
-	.home{
-	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518211417/home-otm_pfzyek.jpg');
+	
+@media screen and (max-width: 1600px){
+  .home{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717347/home-1200x720_ockfjw.jpg');
 	  background-position: center center;
 	  background-repeat: no-repeat;
 	  background-attachment: fixed;
 	  background-size: cover;
 	}
+}
+@media screen and (max-width: 768px){
+  .home{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717682/home-768x1024_hqhbky.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 480px){
+  .home{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718113/home-480x800_bgrssz.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 320px){
+  .home{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718209/home-320x480_bcfqco.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
 	
 h1{
   font-weight: bold;

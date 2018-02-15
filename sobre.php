@@ -1,12 +1,41 @@
 <?php  require_once('header.php') ?>
 <style>
 	/*SOBRE*/
-.sobre{
-  background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518284066/sobre-otm_tyi6eu.jpg');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+@media screen and (max-width: 1600px){
+  .sobre{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717347/sobre-1200x720_eukksi.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 768px){
+  .sobre{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518717682/sobre-768x1024_muqv1y.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 480px){
+  .sobre{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718113/sobre-480x800_tdwi9k.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
+}
+@media screen and (max-width: 320px){
+  .sobre{
+	 background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518718209/sobre-320x480_hrnwbg.jpg');
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	}
 }
 #contato-sobre{
   border: 2px solid #fff;
